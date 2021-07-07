@@ -30,6 +30,7 @@
 <br>
 
 ## Rode o projeto em sua maquina
+- Gerenciador de pacote usado: **Yarn**
 
 Certifique-se de instalar todas as depências do projeto com o comando: <br>
 `yarn`: yarn install <br>
