@@ -1,6 +1,16 @@
-# Getting Started with Create React App
+### UI CLONE TWITTER
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<div>
+  <img src="https://media-exp3.licdn.com/dms/image/C4D22AQES0AAYLZNK5Q/feedshare-shrink_800/0/1625620027621?e=1628726400&v=beta&t=VAPOVL8Mr6tNBq_aFKKZwwBn6UOStxz9cxjRZyIGYAQ"/>
+</div>
+
+## Tecnologias Usadas
+<div>
+  <img width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"/>
+  <img width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"/>
+  <img width="50px" src="https://miro.medium.com/max/960/1*Iohnw2aOQ5EBghVoqKA7VA.png"/>
+</div>
+
 
 ## Available Scripts
 
