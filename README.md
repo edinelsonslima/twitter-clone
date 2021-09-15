@@ -1,6 +1,6 @@
 <h1 align="center">UI CLONE TWITTER </h1>
 <div align="center"> 
-   <img width="1000px" height="500px"  src="https://media-exp3.licdn.com/dms/image/C4D22AQES0AAYLZNK5Q/feedshare-shrink_800/0/1625620027621?e=1628726400&v=beta&t=VAPOVL8Mr6tNBq_aFKKZwwBn6UOStxz9cxjRZyIGYAQ"/>
+   <img width="1000px" height="500px"  src="twitter-ui-clone.gif"/>
 </div>
 <hr>
 <br>
